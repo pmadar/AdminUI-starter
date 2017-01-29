@@ -1,8 +1,6 @@
 {
   "name": "AdminStarter",
-  "version": "0.0.1",
-  "private": true,
-  "homepage": ".",
+  "version": "1.0.0",
   "devDependencies": {
     "react-scripts": "0.8.5"
   },
