@@ -5,3 +5,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - react-router
 - redux
 - redux-saga
+
+###Demo
+[https://pmadar.github.io/AdminUI-starter](https://pmadar.github.io/AdminUI-starter)
